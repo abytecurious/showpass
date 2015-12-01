@@ -1,0 +1,18 @@
+{
+  "title": "Show Passwords & More",
+  "name": "showpass",
+  "version": "0.0.1",
+  "description": "Adds nifty little icons to forms to reveal passwords and also clear field contents",
+  "main": "showpass.js",
+  "author": "AByteCurious",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "icon": "resource://showpass/data/showpass-32.png",
+  "permissions": {"private-browsing": true},
+  "keywords": [
+    "password", "forms"
+  ]
+}

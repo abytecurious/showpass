@@ -1,2 +1,2 @@
-# showpass
-A Firefox add-on that adds nifty little icons to form elements to reveal your password, delete text entry, etc.
+#Show Passwords & More
+Adds nifty little icons to forms to reveal passwords and also clear field contents
